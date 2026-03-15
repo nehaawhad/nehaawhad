@@ -19,8 +19,11 @@ Because of several handoffs between teams, tickets sometimes faced delays in ver
 My work focused on understanding the workflow and making it more structured.
 
 • Documented program workflows
+
 • Created process documentation and SOPs
+
 • Built swimlane diagrams to clarify responsibilities
+
 • Developed templates to standardize ticket verification
 
 ---
